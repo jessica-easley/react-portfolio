@@ -1,5 +1,7 @@
 # React-Portfolio
 
+# View Deployed Link Here:
+
 # Description
 A professional portfolio using React.js
 
@@ -37,4 +39,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 # Tecnologies Used
 * React.js
+* HTML
+* CSS
 
+# Screenshots of Application
